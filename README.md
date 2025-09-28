@@ -4,7 +4,7 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c?logo=pytorch&logoColor=white)](https://pytorch.org)
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-3776ab?logo=python&logoColor=white)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-[![Dataset](https://img.shields.io/badge/Dataset-7k%2B%20MRI-blue)]()
+[![Dataset](https://img.shields.io/badge/Dataset-7k%2B%20MRI-blue)](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
 
 > **Early and accurate brain tumor classification can significantly improve patient outcomes.**  
 > This project implements a **robust, reproducible deep learning pipeline** for 4-class classification of brain MRI scans using modern PyTorch best practices.
