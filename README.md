@@ -83,12 +83,12 @@ data/
 <img width="990" height="372" alt="download" src="https://github.com/user-attachments/assets/17840cb7-b0a6-47e4-81a7-5b0200a948ae" />
 
 
-# 🔍 Key Insights & Challenges
-## Class Confusion: Glioma and meningioma show cross-prediction due to overlapping visual features in axial MRI slices.
-## Data Quality: Removed mislabeled samples from SARTAJ subset (as noted in dataset source).
-## Medical Ethics: Model designed as decision-support tool, not diagnostic replacement.
-## Generalization: High accuracy on notumor and pituitary suggests strong feature learning for distinct pathologies.
-# 📈 Future Work
+### 🔍 Key Insights & Challenges
+Class Confusion: Glioma and meningioma show cross-prediction due to overlapping visual features in axial MRI slices.
+Data Quality: Removed mislabeled samples from SARTAJ subset (as noted in dataset source).
+Medical Ethics: Model designed as decision-support tool, not diagnostic replacement.
+Generalization: High accuracy on notumor and pituitary suggests strong feature learning for distinct pathologies.
+### 📈 Future Work
 Grad-CAM integration for tumor localization visualization
 3D CNN for volumetric MRI analysis (using full scan series)
 Uncertainty quantification (Monte Carlo Dropout)
